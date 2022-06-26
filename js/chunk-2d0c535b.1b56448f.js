@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c535b"],{"3db6":function(e,n,c){"use strict";c.r(n);var a=c("7a23"),t={class:"radion-detail"};function o(e,n,c,o,d,i){return Object(a["openBlock"])(),Object(a["createElementBlock"])("div",t," 123 ")}var d={name:"RadioDetail"},i=c("6b0d"),r=c.n(i);const s=r()(d,[["render",o]]);n["default"]=s}}]);
+//# sourceMappingURL=chunk-2d0c535b.1b56448f.js.map
